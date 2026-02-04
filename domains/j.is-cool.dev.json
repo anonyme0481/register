@@ -1,15 +1,13 @@
 {
-    "description": "Personal Portfolio",
-    "domain": "is-cool.dev",
-    "subdomain": "j",
-    "owner": {
-        "username": "https://github.com/jakeharrison90",
-        "email": "overtonmarke@gmail.com"
-    },
-    "record": {
-        "A": [
-            "76.76.21.21"
-        ]
-    },
-    "proxied": false
+  "description": "myproject",
+  "domain": "is-cool.dev",
+  "subdomain": "j",
+  "owner": {
+    "username": "jakeharrison90",
+    "email": "xyntrajavrix@gmail.com"
+  },
+  "record": {
+    "CNAME": "spotifyprenium.netlify.app"
+  },
+  "proxied": false
 }
