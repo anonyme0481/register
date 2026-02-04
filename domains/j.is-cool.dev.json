@@ -1,10 +1,10 @@
 {
-  "description": "myproject",
+  "description": "My personal project",
   "domain": "is-cool.dev",
-  "subdomain": "j",
+  "subdomain": "javrix",
   "owner": {
-    "username": "jakeharrison90",
-    "email": "xyntrajavrix@gmail.com"
+    "username": "anonyme0481",
+    "email": "255365493+anonyme0481@users.noreply.github.com"
   },
   "record": {
     "CNAME": "spotifyprenium.netlify.app"
